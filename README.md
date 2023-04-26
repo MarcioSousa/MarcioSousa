@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **C#, Visual Basic .Net, Sql Server**
 
-- 📫 Como você me acha **marciofrapeso@gmail.com**
+- 📫 Meu e-mail de contato **marciofrapeso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
