@@ -7,6 +7,20 @@
 
 - 📫 Meu e-mail de contato **marciofrapeso@gmail.com**
 
+- Sou um Analista e Desenvolvedor de Sistemas com experiência em programação em C#, Sql Server e MySQL. Atuo no desenvolvimento de soluções de software eficientes e escaláveis, com foco na criação de sistemas robustos e de alta qualidade.
+
+- Tenho habilidades sólidas em C#, uma linguagem de programação versátil e poderosa, e sou capaz de desenvolver aplicações tanto para ambientes desktop quanto web. Além disso, possuo conhecimentos em bancos de dados relacionais, incluindo Sql Server e MySQL, o que me permite projetar e otimizar estruturas de banco de dados para melhor desempenho e eficiência.
+
+- Atualmente, estou aprimorando meus conhecimentos em Razor com .Net, uma tecnologia que permite criar páginas da web dinâmicas e interativas usando o framework .Net. Essa especialização me permite desenvolver interfaces de usuário atraentes e responsivas, combinando código C# com marcação Razor.
+
+- Estou comprometido em me manter atualizado com as últimas tecnologias e práticas de desenvolvimento, buscando constantemente expandir meu conjunto de habilidades. Tenho um sólido histórico acadêmico e estou prestes a me formar neste ano, o que demonstra meu compromisso com a educação e a busca pela excelência profissional.
+
+- Como Analista e Desenvolvedor de Sistemas, sou capaz de colaborar em equipes multidisciplinares, comunicar ideias complexas de forma clara e trabalhar de forma eficaz em prazos apertados. Tenho habilidades analíticas e de resolução de problemas, o que me permite identificar e corrigir problemas de software de forma eficiente.
+
+- Estou entusiasmado em aplicar meus conhecimentos e habilidades em projetos desafiadores, contribuindo para o desenvolvimento de soluções de software de qualidade. Sou um profissional comprometido, orientado para resultados e sempre em busca de oportunidades para me aprimorar e crescer profissionalmente.
+
+- Sou Epiléptico e tenho TEA, então, estou desde os 18 anos a procura de oportunidade, tanto Freelance, quanto CLT, um sonho é ter um emprego digno, na qual a empresa dê valor nos conhecimentos que a mim foram adquiridos e colocados em práticas, tanto na faculdade, quando na vida profissional.
+
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marciosousaitu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciosousaitu/" height="30" width="40" /></a>
