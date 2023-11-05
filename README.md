@@ -13,7 +13,7 @@
 
 - Atualmente, estou aprimorando meus conhecimentos em Razor com .Net.
 
-- Tenho um sólido histórico acadêmico e estou prestes a me formar neste ano como Analista e Desenvolvedor de Sistemas.
+- Tenho um sólido histórico acadêmico e estou prestes a me formar neste ano em Tecnólogo em Analise e Desenvolvimento de Sistemas.
 
 - Sou Epiléptico e tenho TEA, então, estou desde os 18 anos a procura de oportunidade, tanto Freelance, quanto CLT, um sonho é ter um emprego digno, na qual a empresa dê valor nos conhecimentos que a mim foram adquiridos e colocados em práticas, tanto na faculdade, quando na vida profissional.
 
