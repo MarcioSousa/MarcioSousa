@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Marcio Sousa</h1>
-<h3 align="center">Sou Analista e Desenvolvedor de Sistemas Backend</h3>
+<h3 align="center">Sou Tecnólogo em Análise e Desenvolvimento de Sistemas.</h3>
 
 - 🔭 Eu estou trabalhando hoje **com projetos anonimos em empresas.**
 
