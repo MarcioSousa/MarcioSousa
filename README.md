@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **C#, Visual Basic .Net, Sql Server**
 
-- 📫 Meu e-mail de contato **marciofrapeso@gmail.com**
+- 📫 Meu e-mail de contato **dev.marciosousa@gmail.com**
 
 - Sou um Analista e Desenvolvedor de Sistemas com experiência em programação em C#, Sql Server e MySQL. Atuo no desenvolvimento de soluções de software eficientes e escaláveis, com foco na criação de sistemas robustos e de alta qualidade.
 
