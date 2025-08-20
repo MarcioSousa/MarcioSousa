@@ -15,8 +15,6 @@
 
 - Tenho um sólido histórico acadêmico e formado em Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-- Sou Epiléptico e tenho TEA, então, estou desde os 18 anos a procura de oportunidade, tanto Freelance, quanto CLT, um sonho é ter um emprego digno, na qual a empresa dê valor nos conhecimentos que a mim foram adquiridos e colocados em práticas, tanto na faculdade, quando na vida profissional.
-
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marciosousaitu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciosousaitu/" height="30" width="40" /></a>
